@@ -12,3 +12,5 @@ y <- x + epsilon
 
 reg <- lm(y ~ x)
 summary(reg)
+
+# End of code
