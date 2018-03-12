@@ -1,4 +1,4 @@
-# This is a test
+# This is a test using R and Github
 # Rcode 
 
 x <- runif(1000, min = 0, max = 1)
